@@ -1,4 +1,4 @@
-# Lute v3
+# Lutev3
 
 [![tests](https://github.com/jzohrab/lute_v3/actions/workflows/ci.yml/badge.svg?branch=master)](https://github.com/jzohrab/lute_v3/actions/workflows/ci.yml?query=branch%3Amaster)
 [![code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
